@@ -1,0 +1,4 @@
+streamlit
+yfinance
+pandas
+git+https://github.com/nvuor/pandas-ta.git
