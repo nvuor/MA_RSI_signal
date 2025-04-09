@@ -1,4 +1,5 @@
 streamlit
 yfinance
 pandas
+setuptools
 git+https://github.com/nvuor/pandas-ta.git
