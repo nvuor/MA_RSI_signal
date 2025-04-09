@@ -1,0 +1,22 @@
+# .streamlit/config.toml
+
+[theme]
+# Sets the primary color for interactive elements
+primaryColor="#00FF7F"  # SpringGreen - visible on dark
+
+# Background color for the main content area
+backgroundColor="#0E1117" # Streamlit's default dark background
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor="#262730" # Streamlit's default dark widget background
+
+# Color used for almost all text
+textColor="#FAFAFA" # Off-white
+
+# Font family for all text in the app, except code blocks
+# Use "monospace" for a terminal feel
+font="monospace"
+
+[server]
+# Optional: Helps prevent CORS issues if embedding later, not strictly needed now
+# enableCORS = false
